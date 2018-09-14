@@ -1,0 +1,13 @@
+html {
+    color: fuchsia;
+    background-color: transparent;
+}
+
+h1 {
+    font-family : inherit;
+    color: darkseagreen;
+}
+
+p {
+    color: thistle;
+}
