@@ -10,4 +10,12 @@ h1 {
 
 p {
     color: thistle;
+    background-color: bisque;
+}
+body {
+    color: olive;
+    background-color: beige;
+}
+a {
+    color: darkred;
 }
