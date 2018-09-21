@@ -12,10 +12,29 @@ p {
     color: thistle;
     background-color: bisque;
 }
+
+.cis-260 {
+    color: darkgoldenrod;
+}
 body {
     color: olive;
     background-color: beige;
 }
 a {
     color: darkred;
+}
+.test {
+    background-color: darkcyan;
+}
+
+.trythis {
+    color: navajowhite;
+}
+.ahoy {
+    background-color: greenyellow;
+}
+#anger {
+    color: #FF0000;
+    font-size: 2em;
+    font-style: italic;
 }
