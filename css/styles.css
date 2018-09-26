@@ -38,3 +38,9 @@ a {
     font-size: 2em;
     font-style: italic;
 }
+
+#special-one {color: chocolate; background-color: whitesmoke;}
+
+h2 {border: 3px dashed #ffffff; padding: 5px}
+
+p a {color: darkolivegreen}
