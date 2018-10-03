@@ -13,9 +13,6 @@ p {
     background-color: bisque;
 }
 
-.cis-260 {
-    color: darkgoldenrod;
-}
 body {
     color: olive;
     background-color: beige;
@@ -30,9 +27,6 @@ a {
 .trythis {
     color: navajowhite;
 }
-.ahoy {
-    background-color: rgba(173, 255, 47, 0.43);
-}
 #anger {
     color: #FF0000;
     font-size: 2em;
@@ -44,3 +38,5 @@ a {
 h2 {border: 3px dashed #ffffff; padding: 5px}
 
 p a {color: darkolivegreen}
+
+.dotborder {border: 3px dashed #ffffff; padding: 5px}
